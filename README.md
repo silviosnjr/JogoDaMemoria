@@ -1,2 +1,1 @@
-# JogoDaMemoria
-Idea de acolhimento baseado no projeto de FlashCards
+#Página web: desenvolvendo uma ferramenta interativa de estudo
